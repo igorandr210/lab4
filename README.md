@@ -5,8 +5,8 @@
 
 
 ![Image alt](https://github.com/igorandr210/lab4/blob/master/screen/0.jpg)
-![Image alt](https://github.com/igorandr210/lab4/blob/master/screen/1.jpg)
-![Image alt](https://github.com/igorandr210/lab4/blob/master/screen/3.jpg)
-![Image alt](https://github.com/igorandr210/lab4/blob/master/screen/4.jpg)
+![Image alt](https://github.com/igorandr210/lab4/blob/master/screen/1.png)
+![Image alt](https://github.com/igorandr210/lab4/blob/master/screen/3.png)
+![Image alt](https://github.com/igorandr210/lab4/blob/master/screen/4.png)
 
 
